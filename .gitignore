@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# dataset and run outputs
+data/
+outputs/
+*.mp4
+*.zip
+*.pt
+runs/
